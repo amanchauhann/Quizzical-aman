@@ -1,0 +1,15 @@
+.main-container {
+  /* border: 1px solid red; */
+  padding-bottom: 2rem;
+  text-align: left;
+  border-bottom: 1px solid black;
+  margin-top: 2rem;
+}
+
+.option-container {
+  /* border: 1px solid red; */
+  display: flex;
+  /* gap: 2rem; */
+  max-width: 40rem;
+  justify-content: space-around;
+}
